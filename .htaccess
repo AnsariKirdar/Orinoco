@@ -1,0 +1,8 @@
+RewriteEngine On
+
+
+ErrorDocument 400 http://localhost/0%20Web/Vision/vision.local/error/bad-request.html
+ErrorDocument 401 http://localhost/0%20Web/Vision/vision.local/error/unauthorised.html
+ErrorDocument 403 http://localhost/0%20Web/Vision/vision.local/error/forbidden.html
+ErrorDocument 404 http://localhost/0%20Web/Vision/vision.local/error/file-not-found.html
+ErrorDocument 500 http://localhost/0%20Web/Vision/vision.local/error/internal-server-error.html
