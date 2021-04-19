@@ -1,0 +1,112 @@
+@import url(./font/stylesheet.css);
+@font-face {
+    src: url('font/Creattion Demo.otf');
+    font-family: creattion;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: TT Hoves;
+}
+
+.sig {
+    font-family: creattion;
+}
+
+.nav_section {
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    background-color: #fff;
+    box-shadow: 2px 2px 15px #aaaaaa;
+}
+
+.nav_logo img {
+    height: 50px;
+}
+
+.nav_button span {
+    background-color: #338EFF;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 50px 50px 0px 50px;
+    cursor: pointer;
+    font-size: 20px;
+    position: relative;
+}
+
+.nav_button .nav_box {
+    position: absolute;
+    background-color: #338EFF;
+    border-radius: 15px;
+    padding: 15px;
+    right: 5px;
+    top: 90px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    width: 175px;
+}
+
+.nav_button .nav_box ul li a {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav_button .nav_box ul li {
+    padding: 10px 0px;
+    margin: 0px;
+    text-align: right;
+}
+
+.nav_button .nav_box ul {
+    list-style: none;
+    margin: 0px;
+}
+
+
+/* contactForm */
+
+.contactForm input::placeholder,
+.contactForm textarea::placeholder {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.contactForm input,
+.contactForm textarea {
+    font-size: 20px;
+    box-shadow: 0px 0px 5px #dbdbdb;
+}
+
+
+/* Footer Style */
+
+#footer {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.footerElement {
+    border-top: 2px solid #ebebeb;
+    padding: 25px 0px;
+    width: 100%;
+    color: #aaaaaa;
+}
+
+.footerElement a,
+.footerElement a i {
+    color: #aaaaaa;
+}
+
+.rounded-20 {
+    border-radius: 20px;
+}
