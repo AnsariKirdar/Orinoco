@@ -20,10 +20,10 @@
                 <a href="about.php">About</a>
               </li>
               <li>
-                <a href="course.php">Courses</a>
+                <a href="management.php">Management</a>
               </li>
               <li>
-                <a href="blogs.php">Blogs</a>
+                <a href="services.php">Services</a>
               </li>
               <li>
                 <a href="contact.php">Contact</a>
