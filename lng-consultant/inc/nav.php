@@ -20,7 +20,13 @@
                 <a href="about.php">About</a>
               </li>
               <li>
-                <a href="management.php">Management</a>
+                <a href="partners-profile.php">Partners Profile</a>
+              </li>
+              <li>
+                <a href="company-profile.php">Company Profile</a>
+              </li>
+              <li>
+                <a href="why-us.php">Why Us</a>
               </li>
               <li>
                 <a href="services.php">Services</a>

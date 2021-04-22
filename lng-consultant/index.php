@@ -47,7 +47,8 @@
 
     <div class="row align-items-center pb-5">
 
-      <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+
+      <!-- <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <div class="">
           <p class="fw-bold text-secondary">Orinoco Ship Management </p>
           <h1 class="fw-bolder text-dark display-3">
@@ -58,7 +59,7 @@
 
       <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <img src="img/common/air_lubrication_Maran_Andros.jpg" alt="" class="w-100 rounded-20">
-      </div>
+      </div> -->
 
       <div class="col-lg-4 col-md-6 col-sm-6 col-12 py-4">
         <p class="fw-bold">01</p>
@@ -106,80 +107,120 @@
   </div>
 
 
-  <div class="py-4 px-0 px-lg-5 px-md-5 px-sm-5">
-    <div class="row">
-      <div class="col-lg-3 col-md-6 col-sm-6 col-12 my-3">
-        <div class="card rounded-20 shadow border-0" style="background-color: #e6faff;">
-          <div class="card-body">
-            <h4 class="card-title fw-bolder text-primary">Elite services for LNG vessel</h4>
-            <p class="card-text text-secondary small">Text</p>
-          </div>
-          <img class="card-img-top rounded-20" src="./img/slider/20891016.jpg" alt="">
-        </div>
+  <div class="container py-5">
+    <div class="row py-5">
+      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
+        <h1 class="fw-bolder">
+          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Vision
+        </h1>
+        <p class="text-secondary">
+          "Our vision is to make LNG operations simple. To become
+          leading training centre for LNG operation. To make realistic
+          Simulators for shore installation."
+        </p>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-12 my-3">
-        <div class="card rounded-20 shadow border-0" style="background-color: #e6faff;">
-          <div class="card-body">
-            <h4 class="card-title fw-bolder text-primary">Audit: Cargo / Mooring / Technical
-            </h4>
-            <p class="card-text text-secondary small">Text</p>
-          </div>
-          <img class="card-img-top rounded-20" src="./img/slider/20891016.jpg" alt="">
-        </div>
+      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
+        <h1 class="fw-bolder">
+          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Mission
+        </h1>
+        <p class="text-secondary">
+          "We, at Crystal Ocean, are striving to help LNG industry
+          realise its long-cherished dreams, of imparting knowledge
+          to individuals through Simulators. Train individuals on LNG
+          operations. To create pool of technically proficient
+          manpower."
+        </p>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-12 my-3">
-        <div class="card rounded-20 shadow border-0" style="background-color: #e6faff;">
-          <div class="card-body">
-            <h4 class="card-title fw-bolder text-primary">Compatibility Study: Ship/Shore
-            </h4>
-            <p class="card-text text-secondary small">Text</p>
-          </div>
-          <img class="card-img-top rounded-20" src="./img/slider/20891016.jpg" alt="">
-        </div>
+      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
+        <h1 class="fw-bolder">
+          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Values
+        </h1>
+        <p class="text-secondary">“Our values are based on crystal”.<br>
+          <strong class="text-primary">C</strong> - Commitment to train.<br>
+          <strong class="text-primary">R</strong> - Rip off your shortcomings.<br>
+          <strong class="text-primary">Y </strong>- Yearning to learn.<br>
+          <strong class="text-primary">S </strong>- Self-discipline taught.<br>
+          <strong class="text-primary">T</strong> - Tentativeness far removed.<br>
+          <strong class="text-primary">A</strong> - Accountability ensured.<br>
+          <strong class="text-primary">L </strong>- Loyalty to customer requirement.
+        </p>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-12 my-3">
-        <div class="card rounded-20 shadow border-0" style="background-color: #e6faff;">
-          <div class="card-body">
-            <h4 class="card-title fw-bolder text-primary">Optimoor Study
-            </h4>
-            <p class="card-text text-secondary small">Text</p>
-          </div>
-          <img class="card-img-top rounded-20" src="./img/slider/20891016.jpg" alt="">
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-12 my-3">
-        <div class="card rounded-20 shadow border-0" style="background-color: #e6faff;">
-          <div class="card-body">
-            <h4 class="card-title fw-bolder text-primary">Inspections: Pre-Vetting / Pre-Purchase / Technical
-            </h4>
-            <p class="card-text text-secondary small">Text</p>
-          </div>
-          <img class="card-img-top rounded-20" src="./img/slider/20891016.jpg" alt="">
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-12 my-3">
-        <div class="card rounded-20 shadow border-0" style="background-color: #e6faff;">
-          <div class="card-body">
-            <h4 class="card-title fw-bolder text-primary">Operational Supervision: Cargo / Sts / Drydock
-            </h4>
-            <p class="card-text text-secondary small">Text</p>
-          </div>
-          <img class="card-img-top rounded-20" src="./img/slider/20891016.jpg" alt="">
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-12 my-3">
-        <div class="card rounded-20 shadow border-0" style="background-color: #e6faff;">
-          <div class="card-body">
-            <h4 class="card-title fw-bolder text-primary">Technical Supervision: Drydocking / Layup Ves
-            </h4>
-            <p class="card-text text-secondary small">Text</p>
-          </div>
-          <img class="card-img-top rounded-20" src="./img/slider/20891016.jpg" alt="">
-        </div>
-      </div>
+    </div>
 
+
+  </div>
+
+<?php include "inc/service.php";?>
+
+
+  <div class="container-fluid bg-light py-5 ">
+    <div class="container py-5">
+      <div class="row">
+        <div class="col-12">
+          <p class="text-center fw-bold text-primary mb-0">GET IN TOUCH</p>
+        </div>
+        <div class="col-12">
+          <h2 class="text-center fw-bold display-4">We're here to Help</h2>
+        </div>
+        <div class="col-lg-3 col-md-2 col-sm-12">
+        </div>
+        <div class="col-lg-6 col-md-8 col-sm-12">
+          <p class="text-center text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, facere assumenda. Libero ipsum ratione culpa voluptatibus est minima.</p>
+        </div>
+        <div class="col-lg-3 col-md-2 col-sm-12">
+        </div>
+
+
+
+        <div class="col-lg-4 col-md-4 col-sm-4 col-sm-12 p-4">
+          <div class="bg-white rounded-20 p-3 shadow">
+            <p class="text-center">
+              <span class="d-flex align-items-center justify-content-center bg-light shadow rounded-circle mx-auto" style="width: 60px; height: 60px;">
+                <i class="fad fa-paper-plane text-primary h4"></i>
+              </span>
+            </p>
+            <p class="text-primary fw-bolder text-center h5 mb-3">
+              Our headoffice address
+            </p>
+            <p class="text-center text-secondary">
+              501, Sai Samarth Business Park, Deonar, <br> Govandi East, Mumbai, Maharashtra 400088
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-sm-12 p-4">
+          <div class="bg-white rounded-20 p-3 shadow">
+            <p class="text-center">
+              <span class="d-flex align-items-center justify-content-center bg-light shadow rounded-circle mx-auto" style="width: 60px; height: 60px;">
+                <i class="fad fa-phone-alt text-primary h4"></i>
+              </span>
+            </p>
+            <p class="text-primary fw-bolder text-center h5 mb-3">
+              Call for Help
+            </p>
+            <p class="text-center text-secondary">
+              +91 ----- ----- <br> +91 ----- -----
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-sm-12 p-4">
+          <div class="bg-white rounded-20 p-3 shadow">
+            <p class="text-center">
+              <span class="d-flex align-items-center justify-content-center bg-light shadow rounded-circle mx-auto" style="width: 60px; height: 60px;">
+                <i class="fad fa-envelope-open-text text-primary h4"></i>
+              </span>
+            </p>
+            <p class="text-primary fw-bolder text-center h5 mb-3">
+              Mail us for Information
+            </p>
+            <p class="text-center text-secondary">
+              info@orinocoshipmanagement.com <br> contact@orinocoshipmanagement.com
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
+
 
 
   <?php include  'inc/footer.php'; ?>

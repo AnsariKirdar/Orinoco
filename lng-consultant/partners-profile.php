@@ -43,44 +43,16 @@
 <body>
   <?php include  'inc/nav.php'; ?>
 
-  <div class="container-fluid p-0 mb-5 pb-5">
+  <div class="container-fluid p-0 mb-5 pb-4">
     <img src="img/slider/20891016.jpg" class="w-100" alt="">
   </div>
 
 
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
-        <h1 class="fw-bolder">
-          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> One stop solution for shipping and port requirements
-
-        </h1>
-        <p class="text-secondary">
-          "The company was formed by experienced professionals, who want to provide one stop solution to their clients for their shipping and port requirements."
-        </p>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
-        <h1 class="fw-bolder">
-          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Operating From Mumbai
-        </h1>
-        <p class="text-secondary">
-          "Crystal Ocean Ventures, is presently operating from Mumbai."
-        </p>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
-        <h1 class="fw-bolder">
-          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Ex-Master Mariners, Engineers
-
-        </h1>
-        <p class="text-secondary">“It consists of Ex-Master Mariners, Engineers, who have varied range of experience in the field of trading, commercial operations, Ship Audit & other aspects of shipping and port related activities." </p>
-      </div>
-    </div>
-  </div>
 
   <div class="container py-4 pb-5">
     <div class="continer py-4">
       <h1 class="text-center fw-bold">
-        About Us
+        Partners Profile
       </h1>
 
       <div class="row align-items-center">
@@ -91,19 +63,19 @@
           <h2 class="fw-bold">The Best Choicefor your all</h2>
           <p class="small text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque amet porro voluptatem! Hic enim quae commodi quas eaque? Consequuntur repellat ?</p>
           <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Crew management
+            <span> <i class="fad fa-check"></i></span> LNG industry experts with two decades of experience.
           </p>
           <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Operational management
+            <span> <i class="fad fa-check"></i></span> Experts in LNG vessel operations – Loading / Discharging / STS / Dry dock
           </p>
           <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Technical management
+            <span> <i class="fad fa-check"></i></span> Experts in LNG vessel technical supervision – Dry dock / Repairs
           </p>
           <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Supplies to ship
+            <span> <i class="fad fa-check"></i></span>Project work for all your port and ship related requirements.
           </p>
           <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Shore Installation Workshop / Repairs
+            <span> <i class="fad fa-check"></i></span> We provide in-depth analysis of a project and cost effective solutions.
           </p>
         </div>
       </div>
@@ -113,77 +85,10 @@
   </div>
 
 
-
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
-        <h1 class="fw-bolder">
-          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Vision
-        </h1>
-        <p class="text-secondary">
-          "Our vision is to make LNG operations simple. To become
-          leading training centre for LNG operation. To make realistic
-          Simulators for shore installation."
-        </p>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
-        <h1 class="fw-bolder">
-          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Mission
-        </h1>
-        <p class="text-secondary">
-          "We, at Crystal Ocean, are striving to help LNG industry
-          realise its long-cherished dreams, of imparting knowledge
-          to individuals through Simulators. Train individuals on LNG
-          operations. To create pool of technically proficient
-          manpower."
-        </p>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12 px-4">
-        <h1 class="fw-bolder">
-          <sup class="text-primary"><i class="fad fa-quote-left" aria-hidden="true"></i></sup> Values
-        </h1>
-        <p class="text-secondary">“Our values are based on crystal”.<br>
-          <strong class="text-primary">C</strong> - Commitment to train.<br>
-          <strong class="text-primary">R</strong> - Rip off your shortcomings.<br>
-          <strong class="text-primary">Y </strong>- Yearning to learn.<br>
-          <strong class="text-primary">S </strong>- Self-discipline taught.<br>
-          <strong class="text-primary">T</strong> - Tentativeness far removed.<br>
-          <strong class="text-primary">A</strong> - Accountability ensured.<br>
-          <strong class="text-primary">L </strong>- Loyalty to customer requirement.
-        </p>
-      </div>
-    </div>
-
-
-  </div>
+  <?php include "inc/service.php"; ?>
 
 
 
-
-
-  <div class="bg-light pb-5">
-    <div class="container py-4 bg-light">
-      <div class="continer py-4 bg-light">
-        <h2 class="text-center">
-          Watch Our Two Minute Intro
-        </h2>
-        <p class="w-50 text-center mx-auto text-secondary">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat numquam facilis dolore reprehenderit corrupti ducimus, veniam repellendus maxime maiores sunt fugiat,!
-        </p>
-
-        <div class="ratio ratio-16x9 mx-auto" style="width: 700px; max-width: 100%;">
-          <iframe src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" title="YouTube video" allowfullscreen></iframe>
-        </div>
-
-        <p class="text-center py-4">
-          <button type="button" class="btn btn-primary btn-lg px-5 fw-bold" data-bs-toggle="modal" data-bs-target="#exampleModal">
-            Learn More
-          </button>
-        </p>
-
-      </div>
-    </div>
-  </div>
 
 
   <div class="container">

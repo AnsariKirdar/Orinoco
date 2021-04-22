@@ -80,7 +80,7 @@
                   </span>
                 </p>
                 <p class="text-primary fw-bolder h5 px-3">
-                  Crew management
+                  Elite services for LNG vessel
                 </p>
                 <p class="text-secondary mb-0 px-3 small">
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid consequuntur dolores culpa accusamus eligendi itaque sint deleniti iusto harum suscipit.
@@ -95,7 +95,8 @@
                   </span>
                 </p>
                 <p class="text-primary fw-bolder h5 px-3">
-                  Operational management
+                  Audit: Cargo / Mooring / Technical
+
                 </p>
                 <p class="text-secondary mb-0 px-3 small">
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid consequuntur dolores culpa accusamus eligendi itaque sint deleniti iusto harum suscipit.
@@ -110,7 +111,8 @@
                   </span>
                 </p>
                 <p class="text-primary fw-bolder h5 px-3">
-                  Technical management
+                  Compatibility Study: Ship/Shore
+
                 </p>
                 <p class="text-secondary mb-0 px-3 small">
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid consequuntur dolores culpa accusamus eligendi itaque sint deleniti iusto harum suscipit.
@@ -125,7 +127,7 @@
                   </span>
                 </p>
                 <p class="text-primary fw-bolder h5 px-3">
-                  Supplies to Ship
+                  Technical Supervision: Drydocking / Layup Ves
                 </p>
                 <p class="text-secondary mb-0 px-3 small">
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid consequuntur dolores culpa accusamus eligendi itaque sint deleniti iusto harum suscipit.
@@ -133,74 +135,6 @@
               </div>
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container-fluid bg-light py-5">
-    <div class="container py-4">
-      <p class="text-center text-primary h5">
-        The Best Product
-      </p>
-      <div class="row align-items-center">
-        <div class="col-lg-2 col-md-1 col-sm-12"></div>
-        <div class="col-lg-8 col-md-10 col-sm-12">
-          <h1 class="text-center fw-bolder">We Male always take Care of all You Shipping problems and Sove it</h1>
-        </div>
-        <div class="col-lg-2 col-md-1 col-sm-12"></div>
-        <div class="col-lg-2 col-md-1 col-sm-12"></div>
-        <div class="col-lg-8 col-md-10 col-sm-12">
-          <p class="text-center text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quas minima necessitatibus nemo illum, dolores ratione vitae neque quos iusto! Dolorum totam illum incidunt ratione possimus repellendus cum aperiam, alias, voluptas repudiandae quae odit corrupti ullam. Eaque quasi nesciunt totam.</p>
-        </div>
-        <div class="col-lg-2 col-md-1 col-sm-12"></div>
-
-        <div class="col-lg-4 col-md-4 col-sm-12 my-3 py-4">
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
-            <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
-              <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-user-hard-hat text-primary h4"></i></p>
-            </div>
-            <div class="ms-1 w-100">
-              <p class="mb-0 text-primary fw-bold h4">Crew management</p>
-              <p class="mb-0 small text-secondary">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam fugiat debitis quam cumque ipsum natus cum illum minus praesentium optio!</p>
-            </div>
-          </div>
-
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
-            <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
-              <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-cogs text-primary h4"></i></p>
-            </div>
-            <div class="ms-1 w-100">
-              <p class="mb-0 text-primary fw-bold h4">Technical management</p>
-              <p class="mb-0 small text-secondary">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam fugiat debitis quam cumque ipsum natus cum illum minus praesentium optio!</p>
-            </div>
-          </div>
-
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12 my-3 py-4 text-center px-5">
-          <img src="img/common/photo-1593693846850-286e83655126.jpg" class="w-100 rounded-circle shadow" alt="">
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12 my-3 py-4">
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
-            <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
-              <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-drafting-compass text-primary h4"></i></p>
-            </div>
-            <div class="ms-1 w-100">
-              <p class="mb-0 text-primary fw-bold h4">Operational management</p>
-              <p class="mb-0 small text-secondary">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam fugiat debitis quam cumque ipsum natus cum illum minus praesentium optio!</p>
-            </div>
-          </div>
-
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
-            <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
-              <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-people-carry text-primary h4"></i></p>
-            </div>
-            <div class="ms-1 w-100">
-              <p class="mb-0 text-primary fw-bold h4">Supplies to Ship</p>
-              <p class="mb-0 small text-secondary">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam fugiat debitis quam cumque ipsum natus cum illum minus praesentium optio!</p>
-            </div>
-          </div>
-
         </div>
       </div>
     </div>
@@ -221,7 +155,7 @@
     <div class="row align-items-center">
       <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0 order-md-0 order-0"></div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
-        <h3 class="fw-bolder">Service Title</h3>
+        <h3 class="fw-bolder">Elite services for LNG vessel</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
         <p class="mb-0"></p>
       </div>
@@ -235,12 +169,72 @@
         <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt="">
       </div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 py-4">
-        <h3 class="fw-bolder">Service Title</h3>
+        <h3 class="fw-bolder">Audit: Cargo / Mooring / Technical</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
         <p class="mb-0"></p>
       </div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3"></div>
     </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0 order-md-0 order-0"></div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
+        <h3 class="fw-bolder">Compatibility Study: Ship/Shore</h3>
+        <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="mb-0"></p>
+      </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0"></div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 py-4">
+        <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt="">
+      </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 py-4">
+        <h3 class="fw-bolder">Optimoor Study</h3>
+        <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="mb-0"></p>
+      </div>
+      <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3"></div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0 order-md-0 order-0"></div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
+        <h3 class="fw-bolder">Inspections: Pre-Vetting / Pre-Purchase / Technical</h3>
+        <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="mb-0"></p>
+      </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0"></div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 py-4">
+        <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt="">
+      </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 py-4">
+        <h3 class="fw-bolder">Operational Supervision: Cargo / STS / Drydock</h3>
+        <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="mb-0"></p>
+      </div>
+      <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3"></div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0 order-md-0 order-0"></div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
+        <h3 class="fw-bolder">Technical Supervision: Drydocking / Layup Ves</h3>
+        <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="mb-0"></p>
+      </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
+    </div>
+
 
   </div>
 
