@@ -1,6 +1,6 @@
 <section class="nav_section position-relative">
   <div class="container position-relative py-4">
-    <div class="d-flex">
+    <div class="d-flex align-items-center">
       <div class="nav_logo flex-fill">
         <a href="index.php">
           <img src="img/logo/logo.png" alt="">

@@ -11,6 +11,10 @@
     font-family: TT Hoves;
 }
 
+.row {
+    margin: 0px;
+}
+
 .sig {
     font-family: creattion;
 }
@@ -109,4 +113,14 @@
 
 .rounded-20 {
     border-radius: 20px;
+}
+
+@media screen and (max-width: 780px) {
+    .nav_logo img {
+        height: 30px;
+        align-items: center;
+    }
+    .homeBanner {
+        height: auto;
+    }
 }

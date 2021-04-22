@@ -218,14 +218,27 @@
       <div class="col-lg-2 col-md-1 col-sm-12"></div>
     </div>
 
-    <div class="row py-5 align-items-center">
-      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0"></div>
-      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1">
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0 order-md-0 order-0"></div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
         <h3 class="fw-bolder">Service Title</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
         <p class="mb-0"></p>
       </div>
-      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2"> <img src="img/common/362706457-696x464.jpg" class="w-100 rounded-20" alt=""> </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0"></div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 py-4">
+        <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt="">
+      </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 py-4">
+        <h3 class="fw-bolder">Service Title</h3>
+        <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="mb-0"></p>
+      </div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3"></div>
     </div>
 
