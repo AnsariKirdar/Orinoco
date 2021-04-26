@@ -112,7 +112,6 @@
                 </p>
                 <p class="text-primary fw-bolder h5 px-3">
                   Compatibility Study: Ship/Shore
-
                 </p>
                 <p class="text-secondary mb-0 px-3 small">
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid consequuntur dolores culpa accusamus eligendi itaque sint deleniti iusto harum suscipit.
@@ -140,7 +139,9 @@
     </div>
   </div>
 
-
+  <?php
+  include "inc/getintouch.php";
+  ?>
   <div class="container py-5">
     <div class="row py-5">
       <div class="col-lg-2 col-md-1 col-sm-12"></div>
@@ -157,20 +158,22 @@
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
         <h3 class="fw-bolder">Elite services for LNG vessel</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="text-center"><a href="Elite-Services.php" class="btn btn-primary px-4 fw-bold"><i class="fad fa-eye "></i> Know More</a></p>
         <p class="mb-0"></p>
       </div>
-      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img class="card-img-top rounded-20" src="./img/slider/60844fb157daa.jpg" alt=""></div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
     </div>
 
     <div class="row align-items-center">
       <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0"></div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 py-4">
-        <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt="">
+        <img class="card-img-top rounded-20" src="./img/slider/eba305cf40e.jpg" alt="">
       </div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 py-4">
         <h3 class="fw-bolder">Audit: Cargo / Mooring / Technical</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="text-center"><a href="./audit.php" class="btn btn-primary px-4 fw-bold"><i class="fad fa-eye "></i> Know More</a></p>
         <p class="mb-0"></p>
       </div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3"></div>
@@ -181,20 +184,22 @@
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
         <h3 class="fw-bolder">Compatibility Study: Ship/Shore</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="text-center"><a href="./Compatibility-Study.php" class="btn btn-primary px-4 fw-bold"><i class="fad fa-eye "></i> Know More</a></p>
         <p class="mb-0"></p>
       </div>
-      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img class="card-img-top rounded-20" src="./img/slider/eba30ddae63.jpg" alt=""></div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
     </div>
 
     <div class="row align-items-center">
       <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0"></div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 py-4">
-        <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt="">
+        <img class="card-img-top rounded-20" src="./img/slider/eba30c95582.jpg" alt="">
       </div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 py-4">
         <h3 class="fw-bolder">Optimoor Study</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="text-center"><a href="./Optimoor.php" class="btn btn-primary px-4 fw-bold"><i class="fad fa-eye "></i> Know More</a></p>
         <p class="mb-0"></p>
       </div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3"></div>
@@ -205,20 +210,22 @@
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
         <h3 class="fw-bolder">Inspections: Pre-Vetting / Pre-Purchase / Technical</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="text-center"><a href="./Inspections.php" class="btn btn-primary px-4 fw-bold"><i class="fad fa-eye "></i> Know More</a></p>
         <p class="mb-0"></p>
       </div>
-      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"><img class="card-img-top rounded-20" src="./img/slider/eba311a326e.jpg" alt=""></div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
     </div>
 
     <div class="row align-items-center">
       <div class="col-lg-2 col-md-1 col-sm-12 order-lg-0 order-sm-0"></div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 py-4">
-        <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt="">
+        <img class="card-img-top rounded-20" src="./img/slider/eba3093602d.jpg" alt="">
       </div>
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 py-4">
         <h3 class="fw-bolder">Operational Supervision: Cargo / STS / Drydock</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="text-center"><a href="./Operational.php" class="btn btn-primary px-4 fw-bold"><i class="fad fa-eye "></i> Know More</a></p>
         <p class="mb-0"></p>
       </div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3"></div>
@@ -229,16 +236,19 @@
       <div class="col-lg-4 col-md-5 col-sm-12  order-lg-1 order-sm-2 order-md-2 order-2 py-4">
         <h3 class="fw-bolder">Technical Supervision: Drydocking / Layup Ves</h3>
         <p class="small text-secondary">Lorem ipsum dolor, sit amet adipisicing elit. Sit cumque qui vero! Autem, modi! Ducimus, aliquam! Molestias quo incidunt ullam.</p>
+        <p class="text-center"><a href="./Technical-Supervision.php" class="btn btn-primary px-4 fw-bold"><i class="fad fa-eye "></i> Know More</a></p>
         <p class="mb-0"></p>
       </div>
-      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"> <img src="img/common/362706457-696x464.jpg" class="w-100 shadow rounded-20" alt=""> </div>
+      <div class="col-lg-4 col-md-5 col-sm-12  order-lg-2 order-sm-1 order-md-1 order-1 py-4"><img class="card-img-top rounded-20" src="./img/slider/eba30fbc1a8.jpg" alt=""></div>
       <div class="col-lg-2 col-md-1 col-sm-12  order-lg-3 order-sm-4 order-4"></div>
     </div>
 
 
   </div>
 
-
+  <?php
+  include "inc/getintouch.php";
+  ?>
   <div class="container">
     <div class="row py-5">
       <div class="col-lg-2 col-md-1 col-sm-12"></div>

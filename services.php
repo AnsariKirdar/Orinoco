@@ -156,7 +156,7 @@
         <div class="col-lg-2 col-md-1 col-sm-12"></div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 my-3 py-4">
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
+          <div class="p-2 shadow rounded-20 p-3 d-flex align-items-center my-4">
             <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
               <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-user-hard-hat text-primary h4"></i></p>
             </div>
@@ -166,7 +166,7 @@
             </div>
           </div>
 
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
+          <div class="p-2 shadow rounded-20 p-3 d-flex align-items-center my-4">
             <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
               <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-cogs text-primary h4"></i></p>
             </div>
@@ -181,7 +181,7 @@
           <img src="img/common/photo-1593693846850-286e83655126.jpg" class="w-100 rounded-circle shadow" alt="">
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 my-3 py-4">
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
+          <div class="p-2 shadow rounded-20 p-3 d-flex align-items-center my-4">
             <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
               <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-drafting-compass text-primary h4"></i></p>
             </div>
@@ -191,7 +191,7 @@
             </div>
           </div>
 
-          <div class="p-2 shadow rounded-3 p-3 d-flex align-items-center my-4">
+          <div class="p-2 shadow rounded-20 p-3 d-flex align-items-center my-4">
             <div class="me-2 bg-light d-flex align-items-center justify-content-center rounded-circle shadow text-primary" style="width: 50px; height: 50px;">
               <p class="mb-0 fw-bold d-flex align-items-center justify-content-center" style="width: 50px; height: 50px;"><i class="fad fa-people-carry text-primary h4"></i></p>
             </div>
@@ -253,7 +253,7 @@
           <div class="px-4">
             <i class="fas fa-quote-left  text-secondary display-4"></i>
           </div>
-          <div class="border w-100 p-3 rounded-3">
+          <div class="border w-100 p-3 rounded-20">
             <p class="h5 text-secondary mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, et ipsum inventore est assumenda velit praesentium dolores cumque perferendis quod consequuntur ducimus dolorem nesciunt quasi eos natus veritatis rem ut!</p>
             <p class="d-flex align-items-center">
               <span class="px-3">

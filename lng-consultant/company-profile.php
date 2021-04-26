@@ -44,7 +44,7 @@
   <?php include  'inc/nav.php'; ?>
 
   <div class="container-fluid p-0 mb-5 pb-4">
-    <img src="img/slider/20891016.jpg" class="w-100" alt="">
+    <img src="img/slider/eba3093602db.jpg" class="w-100" alt="">
   </div>
 
 
@@ -57,7 +57,7 @@
 
       <div class="row align-items-center">
         <div class="col-lg-6 col-md-12 py-4">
-          <img src="img/common/photo-1455849318743-b2233052fcff.jpg" class="w-100 rounded-20" alt="">
+          <img src="img/common/company.jpg" class="w-100 rounded-20" alt="">
         </div>
         <div class="col-lg-6 col-md-12 py-4">
           <h2 class="fw-bold">The Best Choicefor your all</h2>

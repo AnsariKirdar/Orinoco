@@ -44,7 +44,7 @@
   <?php include  'inc/nav.php'; ?>
 
   <div class="container-fluid p-0 mb-5 pb-4">
-    <img src="img/slider/20891016.jpg" class="w-100" alt="">
+    <img src="img/slider/eba3093602db.jpg" class="w-100" alt="">
   </div>
 
 

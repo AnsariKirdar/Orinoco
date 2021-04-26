@@ -44,7 +44,7 @@
   <?php include  'inc/nav.php'; ?>
 
   <div class="container-fluid p-0 mb-5 pb-5">
-    <img src="img/slider/20891016.jpg" class="w-100" alt="">
+    <img src="img/slider/eba3093602db.jpg" class="w-100" alt="">
   </div>
 
 
@@ -85,26 +85,31 @@
 
       <div class="row align-items-center">
         <div class="col-lg-6 col-md-12 py-4">
-          <img src="img/common/photo-1455849318743-b2233052fcff.jpg" class="w-100 rounded-20" alt="">
+          <img src="img/slider/eba30fbc1a8.jpg" class="w-100 rounded-20" alt="">
         </div>
         <div class="col-lg-6 col-md-12 py-4">
-          <h2 class="fw-bold">The Best Choicefor your all</h2>
-          <p class="small text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque amet porro voluptatem! Hic enim quae commodi quas eaque? Consequuntur repellat ?</p>
-          <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Crew management
-          </p>
-          <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Operational management
-          </p>
-          <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Technical management
-          </p>
-          <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Supplies to ship
-          </p>
-          <p class="text-secondary">
-            <span> <i class="fad fa-check"></i></span> Shore Installation Workshop / Repairs
-          </p>
+          <p class="small text-secondary">Crystal Ocean was born to fervent endeavours conducted by individuals. These individuals have hands on experience as Mariners and Engineers. Expertise of these will oversee the training of newcomers. Candidates will be guided for LNG operations at sea.
+            <br>
+            <br>
+            <b>Our experts are well-versed in</b>
+            <br>
+            <span>&nbsp;&nbsp;&nbsp; <i class="fad fa-check"></i></span> Training
+            <br>
+            <span>&nbsp;&nbsp;&nbsp; <i class="fad fa-check"></i></span> Ship auditing
+            <br>
+            <span>&nbsp;&nbsp;&nbsp; <i class="fad fa-check"></i></span> Commercial operations
+            <br>
+            <span>&nbsp;&nbsp;&nbsp; <i class="fad fa-check"></i></span> Technical operations
+            <br>
+            <span>&nbsp;&nbsp;&nbsp; <i class="fad fa-check"></i></span> Compatibility study
+            <br>
+            <span>&nbsp;&nbsp;&nbsp; <i class="fad fa-check"></i></span> Port-related activities
+            <br>
+            <br>
+            They have indulged in arduous efforts to create Full Mission LNG-training solution that offers extensive training and support to our clients.
+            We take it as our utmost duty, to unleash the talents of seafarers, surmounted by the challenges sea poses to them. Hence Crystal Ocean has designed in-house Full mission LNG simulator. Along with several other training programs. Our Veterans will guide to face harsh environment at sea.
+            </p>
+
         </div>
       </div>
 

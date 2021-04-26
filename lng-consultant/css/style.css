@@ -115,6 +115,13 @@
     border-radius: 20px;
 }
 
+.serviceHR {
+    border: 1px solid #338eff;
+    color: #338EFF;
+    background-color: none;
+    margin: 0px;
+}
+
 @media screen and (max-width: 780px) {
     .nav_logo img {
         height: 30px;
